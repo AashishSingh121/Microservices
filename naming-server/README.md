@@ -1,1 +1,1 @@
-Repo for Eureka Server for Currency Exchange & Currency Conversion Microservices
+Eureka Server for Currency Exchange & Currency Conversion Microservices
